@@ -1,0 +1,19 @@
+{
+    "customers": [
+        {
+            "first_name": "Michel",
+            "last_name": "James",
+            "age": 30
+        },
+        {
+            "first_name": "Alex",
+            "last_name": "Zen",
+            "age": 35
+        },
+        {
+            "first_name": "Vitry",
+            "last_name": "James",
+            "age": 40
+        }
+    ]
+}
